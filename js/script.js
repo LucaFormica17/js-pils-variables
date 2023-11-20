@@ -27,3 +27,13 @@ console.log(greet);
 
 greet = greet + " " + 'Come stai?';
 console.log(greet);
+
+
+//ese1
+let num1 = 40;
+let num2 = 34;
+let comparison;
+if (num1 > num2) {
+    comparison = num1;
+}
+console.log(comparison);
