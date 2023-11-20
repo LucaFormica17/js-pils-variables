@@ -19,6 +19,11 @@ console.log(name);
 let greet = 'Ciao, mondo!';
 console.log(greet);
 
-let greet = 'Come stai, Mondo?';
+//let greet = 'Come stai, Mondo?';
+//console.log(greet);
+
+greet = `${greet} Come stai?`;
 console.log(greet);
 
+greet = greet + " " + 'Come stai?';
+console.log(greet);
