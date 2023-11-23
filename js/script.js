@@ -75,5 +75,7 @@ for(let i=42; i>=1; i--){
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 console.log(numbers);
 
-const fruits = ['mela','banana','pera','albicocca','mango','kiwi','papaya'];
+const fruits = ['mela','banana','pesca','pera','albicocca','mango','kiwi','papaya'];
 console.log(fruits);
+
+console.log(fruits.length);
