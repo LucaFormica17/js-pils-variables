@@ -56,3 +56,8 @@ mela, banana, pesca, pera, albicocca, mango, kiwi, papaya
 
 **Esercizio 1/C**  
 Stampa in console il numero di elementi che costituiscono l'array `fruits`
+
+
+
+SNACK1 
+l'utente inseri
