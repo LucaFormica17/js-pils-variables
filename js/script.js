@@ -158,3 +158,4 @@ function print(){
 }
 
 //esercizio 1/b
+print();
