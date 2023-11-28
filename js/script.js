@@ -131,10 +131,10 @@ for(let i=0; i<6; i++){
 console.log(empty); */
 
 
-let volte = prompt('quanti visualizzare');
+/* let volte = prompt('quanti visualizzare');
 let a1 = 0, b1 = 1;
 let c1;
-console.log(b1);
+console.log(b1); */
 /* for(let i=0; i<volte; i++){
     c1 = a1 + b1; 
     a1 = b1;
@@ -143,11 +143,18 @@ console.log(b1);
 } */
 
 
-let h=0;
+/* let h=0;
 while(h<volte){
     c1 = a1 + b1; 
     a1 = b1;
     b1 = c1;
     h++
     console.log(c1);
+} */
+
+//esercizio 1/a
+function print(){
+    alert('Ciao Mondo');
 }
+
+//esercizio 1/b
