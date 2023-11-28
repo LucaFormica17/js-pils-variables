@@ -164,3 +164,7 @@ print();
 function sum(num1,num2){
     return (num1 + num2);
 }
+
+//ese 2/b
+let sum = sum(10,17);
+console.log(sum(a,b));
