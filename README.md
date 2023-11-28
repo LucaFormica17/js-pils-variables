@@ -63,3 +63,8 @@ Stampa in console il numero di elementi che costituiscono l'array `fruits`
 Definire una funzione che stampi la stringa 'Ciao Mondo'
 
 
+**Esercizio 1/B**
+Richiamare la funzione definita prima
+
+**Esercizio 2/A**
+Definire una funzione che accetti due numeri in input e ne faccia la somma

@@ -159,3 +159,8 @@ function print(){
 
 //esercizio 1/b
 print();
+
+//ese 2/a
+function sum(num1,num2){
+    return (num1 + num2);
+}
