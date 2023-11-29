@@ -168,3 +168,11 @@ function sum(num1,num2){
 //ese 2/b
 let sum = sum(10,17);
 console.log(sum(a,b));
+
+
+//ese1a
+
+let string3;
+function getOneStringFromTwo(string1, string2){
+    return string3 = string1 + ' ' + string2;
+}
