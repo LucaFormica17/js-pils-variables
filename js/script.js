@@ -174,5 +174,9 @@ console.log(sum(a,b));
 
 let string3;
 function getOneStringFromTwo(string1, string2){
-    return string3 = string1 + ' ' + string2;
+    return string1 + ' ' + string2;
 }
+
+//ese 1b
+string3 = getOneStringFromTwo('pane', 'nutella')
+console.log(string3);
