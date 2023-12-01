@@ -188,3 +188,9 @@ function hello(){
     alert('ciao a tutti');
 }
 
+//ese 2
+let time=0;
+let clock = setInterval(function(){
+    time++;
+    console.log(time);
+}, 1000)
