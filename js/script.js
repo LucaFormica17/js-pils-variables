@@ -153,30 +153,38 @@ while(h<volte){
 } */
 
 //esercizio 1/a
-function print(){
+/* function print(){
     alert('Ciao Mondo');
-}
+} */
 
 //esercizio 1/b
-print();
+/* print();
 
 //ese 2/a
 function sum(num1,num2){
     return (num1 + num2);
-}
+} */
 
 //ese 2/b
-let sum = sum(10,17);
-console.log(sum(a,b));
+/* let sum = sum(10,17);
+console.log(sum(a,b)); */
 
 
 //ese1a
 
-let string3;
+/* let string3;
 function getOneStringFromTwo(string1, string2){
-    return string1 + ' ' + string2;
-}
+    return string1 + ' ' + string2; */
+
 
 //ese 1b
-string3 = getOneStringFromTwo('pane', 'nutella')
-console.log(string3);
+/* string3 = getOneStringFromTwo('pane', 'nutella')
+console.log(string3); */
+
+
+//ese1/a
+setTimeout(hello, 3000);
+function hello(){
+    alert('ciao a tutti');
+}
+
