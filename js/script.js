@@ -195,4 +195,12 @@ let clock = setInterval(function(){
     console.log(time);
 }, 1000)
 
-//ese 3
+//ese 1/a
+let persona = {
+    nome: 'luca',
+    cognome: 'formica'
+}
+
+//ese 1/b
+console.log(persona.nome);
+
